@@ -73,7 +73,28 @@
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saranshjohri07&theme=tokyonight&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="saranshjohri07" /></p>
+
+
+<!-- ========================= GITHUB PROFILE STATS ========================= -->
+
+<!-- STREAK STATS -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saranshjohri07&theme=tokyonight&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true&cache_seconds=60"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saranshjohri07&theme=tokyo-night&hide_border=true&area=true&cache_seconds=60"
+    width="95%"
+    alt="Contribution Graph"
+  />
+</p>
 
 <p align="center">
 <br/>
