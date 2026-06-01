@@ -80,7 +80,7 @@
 <!-- STREAK STATS -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saranshjohri07&theme=tokyonight&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true&cache_seconds=60"
+    src="https://streak-stats.demolab.com/?user=saranshjohri07&theme=tokyonight&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
